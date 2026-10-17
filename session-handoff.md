@@ -38,7 +38,7 @@
   observation budget, and omnizon if the takedown lifts. Each is a new
   measurement with its own entry, not an edit to an existing number.
 - **Branch / commit:** `main`, tracking `origin/main` at
-  `github.com/sarthakydv/web-agent-eval` (**public**). CI green.
+  `github.com/saarthak-yadav/web-agent-eval` (**public**). CI green.
 
 ## Completed This Session (`feat-007` — the ablation and the cap)
 

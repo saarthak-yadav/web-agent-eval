@@ -271,7 +271,7 @@ fixtures/            captured observations — evidence, not regenerable
 ## Predecessor
 
 This replaces `browser-agent-webvoyager`, archived 2026-07-31 and preserved at
-[github.com/sarthakydv/browser-agent-webvoyager](https://github.com/sarthakydv/browser-agent-webvoyager).
+[github.com/saarthak-yadav/browser-agent-webvoyager](https://github.com/saarthak-yadav/browser-agent-webvoyager).
 Its site-reachability and task-decay audits stand as findings in their own right.
 
 ## Licensing

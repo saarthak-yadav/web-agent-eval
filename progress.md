@@ -22,7 +22,7 @@ which bounds every small delta in this repo. `feat-008` wrote the **README**: it
 leads with the score and with the fact that it is under the baseline, states
 `n = 102` beside every rate, and every figure in it was traced to a numbered
 DECISIONS entry — three that could not be were removed rather than cited loosely
-(entry 18). The repo is **public** at `github.com/sarthakydv/web-agent-eval` with
+(entry 18). The repo is **public** at `github.com/saarthak-yadav/web-agent-eval` with
 CI green.
 
 ## Status
@@ -118,7 +118,7 @@ CI green.
       logic, also tested against the same three broken files.
 - [x] **CI runs the offline half of `init.sh`** on every push and PR — no key, no
       browser, no network. First run green in 21 s.
-- [x] **Repo is public** at `github.com/sarthakydv/web-agent-eval`. Pre-push
+- [x] **Repo is public** at `github.com/saarthak-yadav/web-agent-eval`. Pre-push
       scans confirmed no key and no `.env`/credential blob anywhere in history,
       including inside the gzipped and PNG fixtures — entry 8.
 

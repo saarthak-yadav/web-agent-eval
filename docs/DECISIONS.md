@@ -39,7 +39,7 @@ records something that actually ran or a decision taken with its reasoning.
 
 This project replaces an archived predecessor (`browser-agent-webvoyager`,
 preserved at `.archive/` in the orchestration root and pushed to
-`github.com/sarthakydv/browser-agent-webvoyager`). That project measured a web
+`github.com/saarthak-yadav/browser-agent-webvoyager`). That project measured a web
 agent against the **live web** — first WebVoyager, then Online-Mind2Web.
 
 It is now measured against **REAL**: 112 tasks across 11 deterministic replica
@@ -712,7 +712,7 @@ premise is that a check which cannot fail is worse than no check:
 ### The repo is public from this date
 
 First push: `main` at the commit that introduced this entry's harness changes,
-to `github.com/sarthakydv/web-agent-eval`, with CI green on the first run. Before
+to `github.com/saarthak-yadav/web-agent-eval`, with CI green on the first run. Before
 that push, history was rewritten once to drop a single out-of-scope line from the
 root commit's `progress.md`; the commit whose only content was removing that line
 became empty and was pruned. The published tree is byte-identical to the
